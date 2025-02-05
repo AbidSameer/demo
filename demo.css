@@ -1,0 +1,36 @@
+
+.a{
+    height: 100px;
+    width: 100px;
+    padding: 10px 40px 40px 40px;
+    margin: 10px 10px 10px 10px;
+    border:2px;
+    background-color: blue;
+    text-align: left;
+
+}
+.b{
+    height: 80px;
+    width: 80px;
+    padding: 10px 10px 10px 0px;
+    margin: 8px;
+    border: 10;
+    background-color:green;
+}
+.c{
+    height: 60px;
+    width: 60px;
+    padding: 7px 7px -50px 0px;
+    margin: 4px;
+    border: 10;
+    background-color:aqua;
+}
+.d{
+    height: 40px;
+    width: 40px;
+    padding:2px 2px -50px 0px;
+    margin: 0px 8px 8px 0px;
+    border: 10;
+    background-color:palevioletred;
+
+}
